@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 
 <p>
-  The Hobby Management System is a small web application that allows users to add, edit, view, and delete hobbies. The application is built using Node.js, Express.js, and MySQL for the database. It provides a user-friendly interface for managing user information, contact numbers, and hobbies.
+  The GPA Calculator is a small web application that allows students to add, view, and Remove GPA. The application is built using Node.js, Express.js, and MongoDB for the database. It provides a user-friendly interface for managing user Subjects Marks, student Name, and Subject Credit.
 </p>
 
 
