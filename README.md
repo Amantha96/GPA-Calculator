@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="coding" width="400" src="https://github.com/Amantha96/GPA-Calculator/commit/4553e18d8b71fc17542d724a3fab41d78c3003a4">
+      <img alt="coding" width="400" src="https://github.com/Amantha96/Hobby-Management-System/blob/master/frontend/src/Screenshots/SignIn-1.png">
       <p> </p>
     </td>
     <td align="center">
