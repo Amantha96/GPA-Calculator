@@ -10,15 +10,15 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="coding" width="400" src="https://raw.githubusercontent.com/Amantha96/GPA-Calculator/4553e18d8b71fc17542d724a3fab41d78c3003a4/GPA%201.png">
+      <img alt="coding" width="400" src="https://github.com/Amantha96/GPA-Calculator/commit/4553e18d8b71fc17542d724a3fab41d78c3003a4#diff-97b386af1930f1f75917f16dc2adacb05203f1a9425aba9a26eb39934980cbbc">
       <p> </p>
     </td>
     <td align="center">
-      <img alt="coding" width="400" src="https://raw.githubusercontent.com/Amantha96/GPA-Calculator/4553e18d8b71fc17542d724a3fab41d78c3003a4/GPA%203.png">
+      <img alt="coding" width="400" src="https://github.com/Amantha96/GPA-Calculator/commit/4553e18d8b71fc17542d724a3fab41d78c3003a4#diff-0a7b591b379e4ab508d4c0bfedbf0171e2dc7c035eeea767b7e3235637bac2d9">
      <p>  </p>
     </td>
     <td align="center">
-      <img alt="coding" width="400" src="https://raw.githubusercontent.com/Amantha96/GPA-Calculator/4553e18d8b71fc17542d724a3fab41d78c3003a4/GPA%203.png">
+      <img alt="coding" width="400" src="https://github.com/Amantha96/GPA-Calculator/commit/4553e18d8b71fc17542d724a3fab41d78c3003a4#diff-877e6e7e087bf35ae04874ba182dce71e80b0c92d99110995ef8bde4106ed987">
      <p></td>
   </tr>
  
